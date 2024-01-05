@@ -21,3 +21,5 @@ const a: StringNumberBooleans = ["hello", 1];
 const b: StringNumberBooleans = ["beautiful", 2, true];
 const c: StringNumberBooleans = ["world", 3, true, false, true, false, true];
 const d: StringNumberBooleans = ["world", 3, true, false, true, false, true, false, true, false, true, false, true, false, true];
+
+
